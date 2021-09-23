@@ -1,0 +1,9 @@
+body{background-color: mistyrose;}
+h1{ font-size: 30px;
+color: lightpink; }
+h2{font-size: 20px;
+color: LightSkyBlue;}
+.big {font-size: 60px;}
+.uppercase {text-transform: uppercase;}
+.big.uppercase {color: mediumaquamarine;}
+h1 span{color: blanchedalmond;}
